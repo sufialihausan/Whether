@@ -98,6 +98,10 @@ body {
 a{
     text-decoration:none;
 }
+a:hover{
+    text-decoration:none;
+    color:pink;
+}
 
  .text-success{
     color: rgb(8, 244, 248);
