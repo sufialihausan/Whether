@@ -95,6 +95,9 @@ body {
     text-align: center;
     justify-content: space-evenly;
  }
+a{
+    text-decoration:none;
+}
 
  .text-success{
     color: rgb(8, 244, 248);
