@@ -4,8 +4,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    overflow: hidden;
     background-repeat: no-repeat;
-    width: 100% 100%;
+    width: 100%;
     background-size: cover;
     position: relative;
     font-family: 'Open Sans', sans-serif;
