@@ -9,8 +9,8 @@
     width: 100%;
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
-    
-   
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background: #222;
     font-size: 120%;
   }
   
